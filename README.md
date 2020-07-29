@@ -1,2 +1,3 @@
 # arcmap-select-by-attribute
-# selectByAttribute This Python code creates a Tkinter window that acts as a simplified 'select by attribute' window of ArcMap.
+
+This Python code is from a class project in 2010. The code creates a Tkinter window that acts as a simplified 'select by attribute' window of ArcMap.
